@@ -787,6 +787,108 @@
 				)
 			)
 		)
+		(symbol "Mechanical:MountingHole_Pad"
+			(pin_numbers hide)
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim yes)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole_Pad"
+				(at 0 4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole with connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*Pad*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_Pad_0_1"
+				(circle
+					(center 0 1.27)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "MountingHole_Pad_1_1"
+				(pin input line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Switch:SW_SPDT_312"
 			(pin_names
 				(offset 1) hide)
@@ -1635,7 +1737,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 50.8) (xy 105.41 50.8)
+			(xy 102.87 52.705) (xy 105.41 52.705)
 		)
 		(stroke
 			(width 0)
@@ -1655,7 +1757,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.865 51.435) (xy 193.675 51.435)
+			(xy 189.865 51.435) (xy 184.15 51.435)
 		)
 		(stroke
 			(width 0)
@@ -1745,7 +1847,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.865 53.975) (xy 199.39 53.975)
+			(xy 182.245 55.88) (xy 189.865 55.88)
 		)
 		(stroke
 			(width 0)
@@ -1775,7 +1877,7 @@
 	)
 	(wire
 		(pts
-			(xy 102.87 50.8) (xy 102.87 55.245)
+			(xy 102.87 52.705) (xy 102.87 55.245)
 		)
 		(stroke
 			(width 0)
@@ -1875,7 +1977,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 49.53) (xy 199.39 53.975)
+			(xy 182.245 50.8) (xy 182.245 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2157,7 +2259,7 @@
 	)
 	(rectangle
 		(start 46.355 28.575)
-		(end 207.645 68.58)
+		(end 220.98 68.58)
 		(stroke
 			(width 0)
 			(type dash)
@@ -2237,16 +2339,6 @@
 		)
 		(uuid "1d463b42-035f-496b-ac61-b088080f95df")
 	)
-	(text "rever"
-		(exclude_from_sim no)
-		(at 124.46 56.515 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "20b9445e-ae9d-464d-bc50-888207be2811")
-	)
 	(text "OUT+=VIN\nOUT-=GND\n5V=5V(J4)"
 		(exclude_from_sim no)
 		(at 149.225 48.26 0)
@@ -2259,7 +2351,7 @@
 	)
 	(text "superior direito "
 		(exclude_from_sim no)
-		(at 246.38 34.925 0)
+		(at 212.725 31.75 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2495,7 +2587,7 @@
 		(uuid "71818e1a-4f3e-405c-a159-afe1cf24cd4d")
 	)
 	(label "OUT-"
-		(at 245.745 43.18 0)
+		(at 212.09 40.005 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2506,7 +2598,7 @@
 		(uuid "7c863992-875c-463b-8ad9-762be535baaa")
 	)
 	(label "OUT+"
-		(at 245.745 40.64 0)
+		(at 212.09 37.465 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2526,17 +2618,6 @@
 			(justify left bottom)
 		)
 		(uuid "a097ad05-3b6d-484b-9e84-50616e23f750")
-	)
-	(label "OUT+"
-		(at 129.54 48.26 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a67427e3-4b77-4476-8499-f22b64064796")
 	)
 	(label "CLP_SIG_5"
 		(at 133.35 138.43 0)
@@ -2559,17 +2640,6 @@
 			(justify left bottom)
 		)
 		(uuid "b2e2df54-e841-4cc5-adf5-fc452b1e053f")
-	)
-	(label "OUT-"
-		(at 129.54 50.8 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "bb823d0f-71ac-4f0b-98ae-464f15a4ae87")
 	)
 	(label "CLP_SIG_7"
 		(at 220.98 128.905 0)
@@ -2605,7 +2675,7 @@
 		(uuid "f8882203-8b2c-43c1-9314-267b0afbd463")
 	)
 	(label "IN-"
-		(at 102.87 50.8 0)
+		(at 102.87 52.705 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2616,7 +2686,7 @@
 		(uuid "fd519665-3324-468a-82ed-324daf060082")
 	)
 	(label "Earth"
-		(at 193.675 51.435 0)
+		(at 184.15 51.435 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2828,6 +2898,73 @@
 			(project "placa de interface clp"
 				(path "/5ff41d86-7efd-4e20-9a2a-4baf6ae2b357"
 					(reference "U5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 192.405 55.88 270)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0773e96e-12d6-419b-9a16-3b8687c786a2")
+		(property "Reference" "H4"
+			(at 196.215 54.6099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 196.215 57.1499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad"
+			(at 192.405 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 192.405 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 192.405 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "44a2f4a2-d250-4101-859c-5e3253d4e031")
+		)
+		(instances
+			(project "placa de interface clp"
+				(path "/5ff41d86-7efd-4e20-9a2a-4baf6ae2b357"
+					(reference "H4")
 					(unit 1)
 				)
 			)
@@ -3294,73 +3431,6 @@
 			(project "placa de interface clp"
 				(path "/5ff41d86-7efd-4e20-9a2a-4baf6ae2b357"
 					(reference "#PWR013")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 110.49 48.26 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "26f8e02f-d4c5-4e64-87d6-1b6b4f348a32")
-		(property "Reference" "J2"
-			(at 110.49 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x02"
-			(at 111.125 45.085 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal"
-			(at 110.49 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 110.49 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 110.49 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "11caa1a3-bed4-4cb2-af4d-48b16a014d7b")
-		)
-		(pin "2"
-			(uuid "5b3ea2af-a169-4878-aced-59b12ea286b1")
-		)
-		(instances
-			(project "placa de interface clp"
-				(path "/5ff41d86-7efd-4e20-9a2a-4baf6ae2b357"
-					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -3912,7 +3982,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 240.665 43.18 180)
+		(at 207.01 40.005 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3920,7 +3990,7 @@
 		(dnp no)
 		(uuid "4fca403c-e466-4a2f-8551-c8521a041e00")
 		(property "Reference" "J12"
-			(at 240.665 38.1 0)
+			(at 207.01 34.925 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3928,7 +3998,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x02"
-			(at 241.3 46.99 0)
+			(at 207.645 43.815 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3936,7 +4006,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal"
-			(at 240.665 43.18 0)
+			(at 207.01 40.005 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3945,7 +4015,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 240.665 43.18 0)
+			(at 207.01 40.005 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3954,7 +4024,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 240.665 43.18 0)
+			(at 207.01 40.005 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4325,6 +4395,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 107.95 48.26 270)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "69ca01f4-2511-4074-ba63-ba0a9b8b296c")
+		(property "Reference" "H1"
+			(at 111.76 46.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 111.76 49.5299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad"
+			(at 107.95 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 107.95 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 107.95 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "29a748e7-2492-4f40-b607-733b5e0102b2")
+		)
+		(instances
+			(project "placa de interface clp"
+				(path "/5ff41d86-7efd-4e20-9a2a-4baf6ae2b357"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
 		(at 128.905 103.505 180)
 		(unit 1)
@@ -4520,6 +4657,73 @@
 			(project "placa de interface clp"
 				(path "/5ff41d86-7efd-4e20-9a2a-4baf6ae2b357"
 					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 107.95 52.705 270)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "782b8d33-055d-492f-80a4-1b1756d94898")
+		(property "Reference" "H2"
+			(at 111.76 51.4349 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 111.76 53.9749 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad"
+			(at 107.95 52.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 107.95 52.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 107.95 52.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "11a68ed2-f46f-4d00-8ab2-b097fef87076")
+		)
+		(instances
+			(project "placa de interface clp"
+				(path "/5ff41d86-7efd-4e20-9a2a-4baf6ae2b357"
+					(reference "H2")
 					(unit 1)
 				)
 			)
@@ -4867,73 +5071,6 @@
 			(project "placa de interface clp"
 				(path "/5ff41d86-7efd-4e20-9a2a-4baf6ae2b357"
 					(reference "R14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 124.46 50.8 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8e88e832-7530-48cf-bbf0-96e671aab526")
-		(property "Reference" "J3"
-			(at 124.46 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x02"
-			(at 125.095 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal"
-			(at 124.46 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 124.46 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 124.46 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "892d6844-0489-4e9b-b1f0-df52b95e5822")
-		)
-		(pin "2"
-			(uuid "e77734c1-4aae-4a82-89fd-210d058e3c08")
-		)
-		(instances
-			(project "placa de interface clp"
-				(path "/5ff41d86-7efd-4e20-9a2a-4baf6ae2b357"
-					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -5423,32 +5560,35 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 184.785 53.975 180)
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 192.405 51.435 270)
 		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
+		(exclude_from_sim yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
-		(uuid "b4a49a7e-fc96-4e86-adee-05c572292d26")
-		(property "Reference" "J4"
-			(at 184.785 48.895 0)
+		(fields_autoplaced yes)
+		(uuid "b67f8aff-0142-4e25-8b92-2ab2146a3691")
+		(property "Reference" "H3"
+			(at 196.215 50.1649 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "Screw_Terminal_01x02"
-			(at 190.5 57.15 0)
+		(property "Value" "MountingHole_Pad"
+			(at 196.215 52.7049 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal"
-			(at 184.785 53.975 0)
+		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad"
+			(at 192.405 51.435 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5457,7 +5597,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 184.785 53.975 0)
+			(at 192.405 51.435 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5465,8 +5605,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 184.785 53.975 0)
+		(property "Description" "Mounting Hole with connection"
+			(at 192.405 51.435 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5475,15 +5615,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "214f5530-8964-40ac-891c-f0c0948d3504")
-		)
-		(pin "2"
-			(uuid "477acc5c-da18-44de-a5b8-236389d68e14")
+			(uuid "6967b457-d981-48db-a3b3-6968a85b1359")
 		)
 		(instances
 			(project "placa de interface clp"
 				(path "/5ff41d86-7efd-4e20-9a2a-4baf6ae2b357"
-					(reference "J4")
+					(reference "H3")
 					(unit 1)
 				)
 			)
@@ -6260,7 +6397,7 @@
 	)
 	(symbol
 		(lib_id "power:+24V")
-		(at 199.39 49.53 0)
+		(at 182.245 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6268,7 +6405,7 @@
 		(dnp no)
 		(uuid "f1d8b441-89d6-4fd4-87ed-df6e5d83735d")
 		(property "Reference" "#PWR02"
-			(at 199.39 53.34 0)
+			(at 182.245 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6277,7 +6414,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 199.39 45.72 0)
+			(at 182.245 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6285,7 +6422,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 199.39 49.53 0)
+			(at 182.245 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6294,7 +6431,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 199.39 49.53 0)
+			(at 182.245 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6303,7 +6440,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+24V\""
-			(at 199.39 49.53 0)
+			(at 182.245 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
