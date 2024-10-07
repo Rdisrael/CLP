@@ -1,0 +1,21 @@
+<definition hotspot_y="137" hotspot_x="9" height="140" type="element" version="0.90" link_type="simple" width="90">
+    <uuid uuid="{7ec672db-62bf-418e-bbb7-8946c67e84ee}"/>
+    <names>
+        <name lang="pt">terminador terra</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text rotation="0" x="20" y="-100" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" text="terra"/>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" ry="0" x="0" rx="0" y="-135" height="135" width="70"/>
+        <text rotation="0" x="0" y="-70" font="Sans Serif,8,-1,5,50,0,0,0,0,0" color="#000000" text="IN 1"/>
+        <text rotation="0" x="0" y="-20" font="Sans Serif,8,-1,5,50,0,0,0,0,0" color="#000000" text="IN 2"/>
+        <text rotation="0" x="40" y="-70" font="Sans Serif,8,-1,5,50,0,0,0,0,0" color="#000000" text="OUT 1"/>
+        <text rotation="0" x="40" y="-20" font="Sans Serif,8,-1,5,50,0,0,0,0,0" color="#000000" text="OUT 2"/>
+        <text rotation="0" x="5" y="-115" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" text="Terminador"/>
+        <terminal name="" x="-5" y="-25" orientation="w" uuid="{eb19efa4-df01-4b1d-98bb-297703f2caf3}" type="Generic"/>
+        <terminal name="" x="75" y="-25" orientation="e" uuid="{bc8ec6b9-f582-415c-bc9e-b11ce1c3aece}" type="Generic"/>
+        <terminal name="" x="75" y="-75" orientation="e" uuid="{1c545a35-2c84-4c31-867a-11e4daf4a23c}" type="Generic"/>
+        <terminal name="" x="-5" y="-75" orientation="w" uuid="{ca215b67-33f3-4e12-9aab-1f44fe7277db}" type="Generic"/>
+    </description>
+</definition>

@@ -1,0 +1,49 @@
+<definition link_type="simple" width="90" version="0.90" height="160" hotspot_x="9" hotspot_y="152" type="element">
+    <uuid uuid="{90b61b39-0fa1-418c-b007-77da39fef823}"/>
+    <names>
+        <name lang="pt">RY40PT5P</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text y="-2" text="0V" rotation="0" x="2" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <text y="-2" text="COM" rotation="0" x="46" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <text y="-133" text="RY40PT5P" rotation="0" x="9" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <text y="-83" text="OUTPUT&#xa;MODULE" rotation="0" x="20" color="#000000" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <rect y="-145" width="70" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" x="0" height="145" ry="0" antialias="false"/>
+        <text y="-120" text="1" rotation="0" x="2" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <text y="-108" text="2" rotation="0" x="62" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <text y="-106" text="3" rotation="0" x="2" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <text y="-92" text="4" rotation="0" x="62" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <text y="-90" text="5" rotation="0" x="2" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <text y="-78" text="6" rotation="0" x="62" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <text y="-74" text="7" rotation="0" x="2" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <text y="-62" text="8" rotation="0" x="62" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <text y="-120" text="0" rotation="0" x="62" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <text y="-16" text="F" rotation="0" x="2" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <text y="-18" text="E" rotation="0" x="62" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <text y="-30" text="D" rotation="0" x="2" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <text y="-32" text="C" rotation="0" x="62" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <text y="-46" text="B" rotation="0" x="2" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <text y="-60" text="9" rotation="0" x="2" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <text y="-48" text="A" rotation="0" x="62" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <terminal y="-50" name="" x="-5" orientation="w" type="Generic" uuid="{ec0dbd3c-bd69-4b0b-bf41-3d8cba5b170e}"/>
+        <terminal y="-6" name="" x="74" orientation="e" type="Generic" uuid="{75064a5c-68c7-4f7d-be26-7ef363808464}"/>
+        <terminal y="-111" name="" x="74" orientation="e" type="Generic" uuid="{ab781eec-a8ec-4096-8347-03d6ff975f64}"/>
+        <terminal y="-110" name="" x="-5" orientation="w" type="Generic" uuid="{1fb1116e-57d3-44e8-ac85-f6315f0fc72e}"/>
+        <terminal y="-36" name="" x="74" orientation="e" type="Generic" uuid="{8962af29-1180-4ca5-81b0-795bdf4fa8c1}"/>
+        <terminal y="-95" name="" x="-5" orientation="w" type="Generic" uuid="{6485c1f5-b40b-4f51-860b-e14cff93d309}"/>
+        <terminal y="-66" name="" x="74" orientation="e" type="Generic" uuid="{66ca2ede-4547-4755-bd4f-df12edaaa5d5}"/>
+        <terminal y="-20" name="" x="-5" orientation="w" type="Generic" uuid="{3bd57cb7-4dc9-43d7-ab56-3bf432d5d40f}"/>
+        <terminal y="-21" name="" x="74" orientation="e" type="Generic" uuid="{ad69180a-3883-4f6c-9593-c354d43a7e41}"/>
+        <terminal y="-80" name="" x="-5" orientation="w" type="Generic" uuid="{b1fd2849-5f0e-45a9-ad95-5b1d21e758a2}"/>
+        <terminal y="-5" name="" x="-5" orientation="w" type="Generic" uuid="{f3e18501-803c-4dd3-a687-1f5730a92f5a}"/>
+        <terminal y="-51" name="" x="74" orientation="e" type="Generic" uuid="{3bafe48e-2422-478b-9d4f-82944c1cb1bb}"/>
+        <terminal y="-125" name="" x="75" orientation="e" type="Generic" uuid="{17a9c849-82da-43fe-bac6-cf0ca564e1e0}"/>
+        <terminal y="-65" name="" x="-5" orientation="w" type="Generic" uuid="{02262370-bdf5-4f73-9a2d-a60eb43e3ea6}"/>
+        <terminal y="-35" name="" x="-5" orientation="w" type="Generic" uuid="{1b4d64f9-bba6-44fb-9f90-9f56613532dc}"/>
+        <terminal y="-125" name="" x="-5" orientation="w" type="Generic" uuid="{1cbe537f-8ac9-4a09-b358-ff4acdd3a759}"/>
+        <terminal y="-81" name="" x="74" orientation="e" type="Generic" uuid="{bebddcd5-d9f4-413e-a6d2-5fbc5b56b2db}"/>
+        <terminal y="-96" name="" x="74" orientation="e" type="Generic" uuid="{0c7c9e01-fa09-4f18-9a13-78ec9592cb1d}"/>
+    </description>
+</definition>

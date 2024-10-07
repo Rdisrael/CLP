@@ -1,0 +1,28 @@
+<definition width="90" height="140" version="0.90" type="element" hotspot_x="9" link_type="simple" hotspot_y="137">
+    <uuid uuid="{24d631da-0e3c-408e-a57a-d02a4f2388f7}"/>
+    <names>
+        <name lang="pt">MINI POWER</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect width="70" height="135" style="line-style:normal;line-weight:normal;filling:none;color:black" x="0" antialias="false" y="-135" ry="0" rx="0"/>
+        <text x="0" color="#000000" text="NC" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" y="-70"/>
+        <text x="0" color="#000000" text="NC" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" y="-46"/>
+        <text x="0" color="#000000" text="NI(-)" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" y="-21"/>
+        <text x="36" color="#000000" text="OUT(-)" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" y="-96"/>
+        <text x="43" color="#000000" text="DC(-)" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" y="-71"/>
+        <text x="34" color="#000000" text="24V(+)" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" y="-46"/>
+        <text x="40" color="#000000" text="2A(+)" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" y="-20"/>
+        <text x="5" color="#000000" text="Mini Power" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" y="-115"/>
+        <text x="0" color="#000000" text="L(+)" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" y="-95"/>
+        <terminal name="" orientation="e" type="Generic" x="75" uuid="{f4f3d9b5-f70b-4ef3-8267-9efc8efd5bca}" y="-50"/>
+        <terminal name="" orientation="e" type="Generic" x="75" uuid="{860c15ec-668a-4dda-b86e-086922a2d6db}" y="-100"/>
+        <terminal name="" orientation="e" type="Generic" x="75" uuid="{ccb5ee3d-e9e7-4a84-b7b0-079259d7a48e}" y="-75"/>
+        <terminal name="" orientation="e" type="Generic" x="75" uuid="{00c6df59-935e-4569-b863-22a5ce34e51c}" y="-25"/>
+        <terminal name="" orientation="w" type="Generic" x="-5" uuid="{de1d8868-2b75-45fe-8e4d-ac2cb690ff62}" y="-75"/>
+        <terminal name="" orientation="w" type="Generic" x="-5" uuid="{6dfeeafc-2f0d-48eb-9f5c-8aa9e9d1efb9}" y="-50"/>
+        <terminal name="" orientation="w" type="Generic" x="-5" uuid="{e3f49a72-707e-4bf7-98b2-1b3058bb150d}" y="-25"/>
+        <terminal name="" orientation="w" type="Generic" x="-5" uuid="{f8548a42-6517-429c-8287-7366a741b2c3}" y="-100"/>
+    </description>
+</definition>

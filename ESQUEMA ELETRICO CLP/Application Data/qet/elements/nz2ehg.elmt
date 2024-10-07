@@ -1,0 +1,35 @@
+<definition hotspot_x="9" link_type="simple" type="element" version="0.90" width="90" hotspot_y="137" height="140">
+    <uuid uuid="{6b9a262d-0f83-4a28-95ca-9f1e67f0038e}"/>
+    <names>
+        <name lang="pt">hub ethernet</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text text="3" font="Sans Serif,8,-1,5,50,0,0,0,0,0" color="#000000" x="0" y="-5" rotation="0"/>
+        <text text="2" font="Sans Serif,8,-1,5,50,0,0,0,0,0" color="#000000" x="0" y="-25" rotation="0"/>
+        <text text="5" font="Sans Serif,8,-1,5,50,0,0,0,0,0" color="#000000" x="60" y="-85" rotation="0"/>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" x="0" antialias="false" ry="0" width="70" y="-135" height="135" rx="0"/>
+        <text text="VI-" font="Sans Serif,8,-1,5,50,0,0,0,0,0" color="#000000" x="0" y="-85" rotation="0"/>
+        <text text="FG" font="Sans Serif,8,-1,5,50,0,0,0,0,0" color="#000000" x="0" y="-65" rotation="0"/>
+        <text text="1" font="Sans Serif,8,-1,5,50,0,0,0,0,0" color="#000000" x="0" y="-45" rotation="0"/>
+        <text text="4" font="Sans Serif,8,-1,5,50,0,0,0,0,0" color="#000000" x="60" y="-105" rotation="0"/>
+        <text text="6" font="Sans Serif,8,-1,5,50,0,0,0,0,0" color="#000000" x="60" y="-65" rotation="0"/>
+        <text text="7" font="Sans Serif,8,-1,5,50,0,0,0,0,0" color="#000000" x="60" y="-45" rotation="0"/>
+        <text text="8" font="Sans Serif,8,-1,5,50,0,0,0,0,0" color="#000000" x="60" y="-25" rotation="0"/>
+        <text text="Hub Ethernet" font="Sans Serif,8,-1,5,50,0,0,0,0,0" color="#000000" x="3" y="-120" rotation="0"/>
+        <text text="VI+" font="Sans Serif,8,-1,5,50,0,0,0,0,0" color="#000000" x="0" y="-105" rotation="0"/>
+        <text text="NZ2EHG-T8N" font="Sans Serif,6,-1,5,50,0,0,0,0,0" color="#000000" x="12" y="0" rotation="0"/>
+        <terminal x="-5" type="Generic" name="" y="-70" orientation="w" uuid="{984293ca-81df-4990-a1d0-4b69358f0e1b}"/>
+        <terminal x="-5" type="Generic" name="" y="-50" orientation="w" uuid="{479c9929-9a09-4ce0-82cf-5dad254bcf52}"/>
+        <terminal x="75" type="Generic" name="" y="-90" orientation="e" uuid="{4ead51ae-6a6e-49b5-b93a-d4e9e0a474b0}"/>
+        <terminal x="75" type="Generic" name="" y="-110" orientation="e" uuid="{0ee714b4-bc13-4d60-8891-ba0f7e61f9d8}"/>
+        <terminal x="75" type="Generic" name="" y="-50" orientation="e" uuid="{cd1784c1-cb0c-491c-a542-c61612312043}"/>
+        <terminal x="-5" type="Generic" name="" y="-90" orientation="w" uuid="{3b01bbc3-6727-4db2-af2d-0d27c5acb11e}"/>
+        <terminal x="-5" type="Generic" name="" y="-110" orientation="w" uuid="{0af28083-118b-4543-abea-60ac8d104431}"/>
+        <terminal x="75" type="Generic" name="" y="-70" orientation="e" uuid="{9ec95212-16ba-45c9-9099-e52b7a9544a0}"/>
+        <terminal x="-5" type="Generic" name="" y="-30" orientation="w" uuid="{c671df3f-6b50-4a74-ab67-c5783d34fe8d}"/>
+        <terminal x="75" type="Generic" name="" y="-30" orientation="e" uuid="{e70b5fa7-d867-438b-890d-59563b93b4d5}"/>
+        <terminal x="-5" type="Generic" name="" y="-10" orientation="w" uuid="{b5348760-f81f-4256-bc4b-b46f887d8c4a}"/>
+    </description>
+</definition>

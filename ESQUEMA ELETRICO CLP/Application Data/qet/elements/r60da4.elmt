@@ -1,0 +1,50 @@
+<definition height="160" version="0.90" type="element" link_type="simple" hotspot_x="10" hotspot_y="154" width="130">
+    <uuid uuid="{9e55098a-29e5-42f4-841a-9f80d9c31454}"/>
+    <names>
+        <name lang="pt">R60DA4</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect antialias="false" height="145" x="0" y="-145" ry="0" width="110" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text color="#000000" x="30" y="-134" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" text="R60DA4"/>
+        <text color="#000000" x="42" y="-15" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" text="ANALOG&#xa;MODULE"/>
+        <text color="#000000" x="1" y="-105" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" text="CH2 COM"/>
+        <text color="#000000" x="1" y="-92" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" text="CH3 COM"/>
+        <text color="#000000" x="1" y="-76" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" text="CH4 COM"/>
+        <text color="#000000" x="1" y="-60" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" text="CH5 COM"/>
+        <text color="#000000" x="1" y="-45" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" text="CH6 COM"/>
+        <text color="#000000" x="1" y="-30" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" text="CH7 COM"/>
+        <text color="#000000" x="1" y="-15" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" text="CH8 COM"/>
+        <text color="#000000" x="80" y="-124" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" text="CH1V+"/>
+        <text color="#000000" x="84" y="-2" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" text="+24V"/>
+        <text color="#000000" x="80" y="-18" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" text="CH8V+"/>
+        <text color="#000000" x="80" y="-32" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" text="CH7V+"/>
+        <text color="#000000" x="80" y="-48" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" text="CH6V+"/>
+        <text color="#000000" x="80" y="-62" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" text="CH5V+"/>
+        <text color="#000000" x="1" y="-2" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" text="24 G"/>
+        <text color="#000000" x="80" y="-78" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" text="CH4V+"/>
+        <text color="#000000" x="80" y="-108" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" text="CH2V+"/>
+        <text color="#000000" x="80" y="-94" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" text="CH3V+"/>
+        <text color="#000000" x="1" y="-120" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" text="CH1 COM"/>
+        <text color="#000000" x="42" y="-22" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" text="OUTPUT"/>
+        <terminal name="" orientation="w" type="Generic" x="-5" y="-35" uuid="{703f68a1-224d-4e17-b92b-7bed543c77c4}"/>
+        <terminal name="" orientation="e" type="Generic" x="114" y="-127" uuid="{007f9922-784f-4bf8-a42c-f985e51d249c}"/>
+        <terminal name="" orientation="e" type="Generic" x="114" y="-52" uuid="{58808eac-90bc-456e-b4af-76f410b8eaee}"/>
+        <terminal name="" orientation="e" type="Generic" x="114" y="-97" uuid="{419941f7-abfd-4342-a064-db72a8a2f1c9}"/>
+        <terminal name="" orientation="e" type="Generic" x="114" y="-37" uuid="{2a886918-431e-4dbb-a742-0971aa7b2373}"/>
+        <terminal name="" orientation="e" type="Generic" x="114" y="-22" uuid="{b9253c6d-3dde-4967-a9ff-b1e74b01d2b2}"/>
+        <terminal name="" orientation="w" type="Generic" x="-5" y="-80" uuid="{d47be33a-0e24-4227-8349-317a66ed4d5b}"/>
+        <terminal name="" orientation="w" type="Generic" x="-5" y="-20" uuid="{3724ff02-559d-4a8c-8523-a5d556aeb101}"/>
+        <terminal name="" orientation="w" type="Generic" x="-5" y="-125" uuid="{36d55710-85c8-4bb2-84e6-635c5552de8c}"/>
+        <terminal name="" orientation="w" type="Generic" x="-5" y="-65" uuid="{777394fe-f826-4ff0-b188-703770f47d98}"/>
+        <terminal name="" orientation="w" type="Generic" x="-5" y="-95" uuid="{ef355cba-3adc-48be-9570-352c17c44677}"/>
+        <terminal name="" orientation="e" type="Generic" x="114" y="-67" uuid="{bb422c80-cd98-48d5-ba9f-59faf52bec3c}"/>
+        <terminal name="" orientation="e" type="Generic" x="114" y="-112" uuid="{670483bc-bb8e-4feb-aa0b-53bb8611859e}"/>
+        <terminal name="" orientation="e" type="Generic" x="114" y="-7" uuid="{d88ed39b-f1a5-464f-998c-da336493456f}"/>
+        <terminal name="" orientation="w" type="Generic" x="-5" y="-50" uuid="{af137c68-ebf7-47ff-94d7-16029c867b54}"/>
+        <terminal name="" orientation="w" type="Generic" x="-5" y="-110" uuid="{119a76c9-79d4-4d96-b30c-0733f78f2f68}"/>
+        <terminal name="" orientation="e" type="Generic" x="114" y="-82" uuid="{f4be1cbd-af4a-4740-b6ab-c9efaa41f3b4}"/>
+        <terminal name="" orientation="w" type="Generic" x="-5" y="-5" uuid="{52b32cc3-8b32-4876-a1c1-c25a595065f8}"/>
+    </description>
+</definition>

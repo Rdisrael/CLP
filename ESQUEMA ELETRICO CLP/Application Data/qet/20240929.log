@@ -1,0 +1,112 @@
+20:31:46.910 Info: Start-up 
+20:31:46.961 Debug: "File C:/Users/israe/Application Data/qet/20240920.log is deleted!" (../sources/main.cpp:150, void delete_old_log_files(int))
+20:31:47.675 Info: Elements collection reload 
+20:31:53.053 Info: debugging enabled: false 
+20:31:53.076 Info: Qt library version: 5.15.7 
+20:31:53.076 Info: Qt library location default prefix: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5" 
+20:31:53.077 Info: Qt library location documentation: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/doc" 
+20:31:53.078 Info: Qt library location headers: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/include" 
+20:31:53.078 Info: Qt library location libraries: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/lib" 
+20:31:53.079 Info: Qt library location executables: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/bin" 
+20:31:53.079 Info: Qt library location Qt binaries: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/bin" 
+20:31:53.080 Info: Qt library location Qt plugins: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/plugins" 
+20:31:53.080 Info: Qt library location installed QML extensions: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/imports" 
+20:31:53.081 Info: Qt library location installed QML extensions: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/qml" 
+20:31:53.081 Info: Qt library location dependent Qt data: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5" 
+20:31:53.082 Info: Qt library location independent Qt data: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5" 
+20:31:53.082 Info: Qt library location translation: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/translations" 
+20:31:53.083 Info: Qt library location examples: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/examples" 
+20:31:53.083 Info: Qt library location Qt testcases: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/tests" 
+20:31:53.084 Info: "QElectroTech V 0.90+c7891bc4cb0a58100c957a06d79751d3" 
+20:31:53.084 Info: "Compilation : GCC 11.3.0" 
+20:31:53.085 Info: "Built with Qt 5.15.7 - x86_64 - Date : Jan  6 2023 : 12:55:49" 
+20:31:53.085 Info: "Run with Qt 5.15.7 using 4 thread(s)" 
+20:31:53.086 Info: "CPU : NAME                                      \r\r\nINTEL(R) CORE(TM) I3-6100U CPU @ 2.30GHZ  \r\r\n\r\r\n" 
+20:31:53.086 Info: "RAM Total : 4 GB" 
+20:31:53.087 Info: "RAM Available : 1 GB" 
+20:31:53.087 Info: "GPU : VideoProcessor               \r\r\nIntel(R) HD Graphics Family  \r\r\n\r\r\n" 
+20:31:53.088 Info: "GPU RAM : RAM Total : AdapterRAM  \r\r\n1073741824  \r\r\n\r\r\n B" 
+20:31:53.088 Info: "OS : winnt  - x86_64 - Version : Windows 10 Version 2009 - Kernel : 10.0.19045" 
+20:31:53.089 Info: *** Qt screens *** 
+20:31:53.089 Info: "( 1 : 1366 x 768 )" 
+20:31:53.097 Info: DISK : C:/   
+20:31:53.097 Info: FileSystemType: "NTFS" 
+20:31:53.098 Info: SizeTotal: 998 GB 
+20:31:53.098 Info: AvailableSize: 638 GB 
+20:31:53.099 Info: DISK : D:/   
+20:31:53.100 Info: FileSystemType: "" 
+20:31:53.100 Info: SizeTotal: 0 GB 
+20:31:53.100 Info: AvailableSize: 0 GB 
+20:31:53.102 Info: DISK USED: C:/   
+20:31:53.103 Info: FileSystemType: "NTFS" 
+20:31:53.103 Info: SizeTotal: 998 GB 
+20:31:53.104 Info: AvailableSize: 638 GB 
+20:33:03.844 Debug: is QRegularExpression ok? (../sources/titleblocktemplate.cpp:437, void TitleBlockTemplate::parseColumns(const QString&))
+20:34:44.373 Info: Elements collection finished to be loaded in 176.696 seconds 
+20:34:45.119 Debug: Export XML de 2 schemas (../sources/qetproject.cpp:916, QDomDocument QETProject::toXml())
+20:34:45.137 Debug: "exporting diagram \"\"" [ Diagram(0x19037ff24b0) ] (../sources/qetproject.cpp:921, QDomDocument QETProject::toXml())
+20:34:45.186 Debug: "exporting diagram \"\"" [ Diagram(0x190381438e0) ] (../sources/qetproject.cpp:921, QDomDocument QETProject::toXml())
+20:34:47.241 Info: Elements collection finished to be loaded 
+20:35:23.227 Info: Start-up 
+20:35:23.562 Info: Elements collection reload 
+20:35:24.388 Info: debugging enabled: false 
+20:35:24.389 Info: Qt library version: 5.15.7 
+20:35:24.389 Info: Qt library location default prefix: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5" 
+20:35:24.390 Info: Qt library location documentation: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/doc" 
+20:35:24.391 Info: Qt library location headers: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/include" 
+20:35:24.392 Info: Qt library location libraries: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/lib" 
+20:35:24.392 Info: Qt library location executables: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/bin" 
+20:35:24.393 Info: Qt library location Qt binaries: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/bin" 
+20:35:24.394 Info: Qt library location Qt plugins: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/plugins" 
+20:35:24.395 Info: Qt library location installed QML extensions: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/imports" 
+20:35:24.396 Info: Qt library location installed QML extensions: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/qml" 
+20:35:24.396 Info: Qt library location dependent Qt data: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5" 
+20:35:24.397 Info: Qt library location independent Qt data: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5" 
+20:35:24.398 Info: Qt library location translation: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/translations" 
+20:35:24.398 Info: Qt library location examples: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/examples" 
+20:35:24.399 Info: Qt library location Qt testcases: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/tests" 
+20:35:24.400 Info: "QElectroTech V 0.90+c7891bc4cb0a58100c957a06d79751d3" 
+20:35:24.401 Info: "Compilation : GCC 11.3.0" 
+20:35:24.401 Info: "Built with Qt 5.15.7 - x86_64 - Date : Jan  6 2023 : 12:55:49" 
+20:35:24.402 Info: "Run with Qt 5.15.7 using 4 thread(s)" 
+20:35:24.403 Info: "CPU : NAME                                      \r\r\nINTEL(R) CORE(TM) I3-6100U CPU @ 2.30GHZ  \r\r\n\r\r\n" 
+20:35:24.404 Info: "RAM Total : 4 GB" 
+20:35:24.404 Info: "RAM Available : 1 GB" 
+20:35:24.405 Info: "GPU : VideoProcessor               \r\r\nIntel(R) HD Graphics Family  \r\r\n\r\r\n" 
+20:35:24.406 Info: "GPU RAM : RAM Total : AdapterRAM  \r\r\n1073741824  \r\r\n\r\r\n B" 
+20:35:24.407 Info: "OS : winnt  - x86_64 - Version : Windows 10 Version 2009 - Kernel : 10.0.19045" 
+20:35:24.408 Info: *** Qt screens *** 
+20:35:24.408 Info: "( 1 : 1366 x 768 )" 
+20:35:24.416 Info: DISK : C:/   
+20:35:24.417 Info: FileSystemType: "NTFS" 
+20:35:24.418 Info: SizeTotal: 998 GB 
+20:35:24.419 Info: AvailableSize: 638 GB 
+20:35:24.420 Info: DISK : D:/   
+20:35:24.421 Info: FileSystemType: "" 
+20:35:24.421 Info: SizeTotal: 0 GB 
+20:35:24.422 Info: AvailableSize: 0 GB 
+20:35:24.425 Info: DISK USED: C:/   
+20:35:24.426 Info: FileSystemType: "NTFS" 
+20:35:24.426 Info: SizeTotal: 998 GB 
+20:35:24.427 Info: AvailableSize: 638 GB 
+20:35:26.796 Info: Elements collection finished to be loaded in 3.232 seconds 
+20:35:43.424 Debug: is QRegularExpression ok? (../sources/titleblocktemplate.cpp:437, void TitleBlockTemplate::parseColumns(const QString&))
+20:35:47.171 Debug: Export XML de 5 schemas (../sources/qetproject.cpp:916, QDomDocument QETProject::toXml())
+20:35:47.171 Debug: "exporting diagram \"CLP\"" [ Diagram(0x1a7d66088f0) ] (../sources/qetproject.cpp:921, QDomDocument QETProject::toXml())
+20:35:47.234 Debug: "exporting diagram \"Potencia\"" [ Diagram(0x1a7dc447810) ] (../sources/qetproject.cpp:921, QDomDocument QETProject::toXml())
+20:35:47.254 Debug: "exporting diagram \"IHM\"" [ Diagram(0x1a7dc44a250) ] (../sources/qetproject.cpp:921, QDomDocument QETProject::toXml())
+20:35:47.255 Debug: "exporting diagram \"EIXO 1\"" [ Diagram(0x1a7dc448b90) ] (../sources/qetproject.cpp:921, QDomDocument QETProject::toXml())
+20:35:47.256 Debug: "exporting diagram \"EIXO 2\"" [ Diagram(0x1a7dc44a8d0) ] (../sources/qetproject.cpp:921, QDomDocument QETProject::toXml())
+20:35:47.739 Info: Elements collection finished to be loaded 
+20:37:47.177 Debug: Export XML de 5 schemas (../sources/qetproject.cpp:916, QDomDocument QETProject::toXml())
+20:37:47.177 Debug: "exporting diagram \"CLP\"" [ Diagram(0x1a7d66088f0) ] (../sources/qetproject.cpp:921, QDomDocument QETProject::toXml())
+20:37:47.389 Debug: "exporting diagram \"Potencia\"" [ Diagram(0x1a7dc447810) ] (../sources/qetproject.cpp:921, QDomDocument QETProject::toXml())
+20:37:47.415 Debug: "exporting diagram \"IHM\"" [ Diagram(0x1a7dc44a250) ] (../sources/qetproject.cpp:921, QDomDocument QETProject::toXml())
+20:37:47.415 Debug: "exporting diagram \"EIXO 1\"" [ Diagram(0x1a7dc448b90) ] (../sources/qetproject.cpp:921, QDomDocument QETProject::toXml())
+20:37:47.415 Debug: "exporting diagram \"EIXO 2\"" [ Diagram(0x1a7dc44a8d0) ] (../sources/qetproject.cpp:921, QDomDocument QETProject::toXml())
+20:39:47.188 Debug: Export XML de 5 schemas (../sources/qetproject.cpp:916, QDomDocument QETProject::toXml())
+20:39:47.231 Debug: "exporting diagram \"CLP\"" [ Diagram(0x1a7d66088f0) ] (../sources/qetproject.cpp:921, QDomDocument QETProject::toXml())
+20:39:47.428 Debug: "exporting diagram \"Potencia\"" [ Diagram(0x1a7dc447810) ] (../sources/qetproject.cpp:921, QDomDocument QETProject::toXml())
+20:39:47.444 Debug: "exporting diagram \"IHM\"" [ Diagram(0x1a7dc44a250) ] (../sources/qetproject.cpp:921, QDomDocument QETProject::toXml())
+20:39:47.444 Debug: "exporting diagram \"EIXO 1\"" [ Diagram(0x1a7dc448b90) ] (../sources/qetproject.cpp:921, QDomDocument QETProject::toXml())
+20:39:47.444 Debug: "exporting diagram \"EIXO 2\"" [ Diagram(0x1a7dc44a8d0) ] (../sources/qetproject.cpp:921, QDomDocument QETProject::toXml())

@@ -1,0 +1,52 @@
+<definition hotspot_y="89" hotspot_x="5" height="100" type="element" version="0.90" link_type="simple" width="240">
+    <uuid uuid="{8b89c8e8-dc2a-4a41-b502-46309b668c67}"/>
+    <names>
+        <name lang="pt">MR-TB26A</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" ry="0" x="0" rx="0" y="-80" height="80" width="230"/>
+        <text rotation="0" x="60" y="-40" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" text="BORNEIRA MR-TB26A"/>
+        <text rotation="0" x="6" y="-70" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" text="1"/>
+        <text rotation="0" x="26" y="-70" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" text="2"/>
+        <text rotation="0" x="56" y="-70" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" text="3"/>
+        <text rotation="0" x="75" y="-70" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" text="4"/>
+        <text rotation="0" x="96" y="-70" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" text="5"/>
+        <text rotation="0" x="126" y="-70" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" text="6"/>
+        <text rotation="0" x="147" y="-70" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" text="7"/>
+        <text rotation="0" x="176" y="-70" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" text="8"/>
+        <text rotation="0" x="196" y="-70" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" text="9"/>
+        <text rotation="0" x="213" y="-70" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" text="10"/>
+        <text rotation="0" x="3" y="-2" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" text="11"/>
+        <text rotation="0" x="24" y="-2" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" text="12"/>
+        <text rotation="0" x="53" y="-2" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" text="13"/>
+        <text rotation="0" x="73" y="-2" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" text="14"/>
+        <text rotation="0" x="93" y="-2" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" text="15"/>
+        <text rotation="0" x="123" y="-2" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" text="16"/>
+        <text rotation="0" x="144" y="-2" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" text="17"/>
+        <text rotation="0" x="173" y="-2" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" text="18"/>
+        <text rotation="0" x="193" y="-2" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" text="19"/>
+        <text rotation="0" x="213" y="-2" font="Sans Serif,9,-1,5,50,0,0,0,0,0" color="#000000" text="20"/>
+        <terminal name="" x="59" y="5" orientation="s" uuid="{50328717-d7b5-4f58-b9f6-1d8659345a2e}" type="Generic"/>
+        <terminal name="" x="219" y="5" orientation="s" uuid="{dfcd8860-3515-4d59-aed3-e0eec4d228a0}" type="Generic"/>
+        <terminal name="" x="30" y="5" orientation="s" uuid="{bd0df7c8-d18b-4da9-881f-1b106987dfb0}" type="Generic"/>
+        <terminal name="" x="99" y="5" orientation="s" uuid="{5f743a4e-f42b-44a7-b051-26f8cdbe6b81}" type="Generic"/>
+        <terminal name="" x="10" y="5" orientation="s" uuid="{5563ffbf-af62-477b-b414-e3b28ff3459f}" type="Generic"/>
+        <terminal name="" x="79" y="5" orientation="s" uuid="{0400249c-4653-453f-a3dc-3f9e8f6b5a5e}" type="Generic"/>
+        <terminal name="" x="179" y="5" orientation="s" uuid="{a2e738da-1fb6-4be6-9632-e667f9d2da09}" type="Generic"/>
+        <terminal name="" x="150" y="5" orientation="s" uuid="{4ee6e83a-72cd-4a9c-92ce-ee0c9facb376}" type="Generic"/>
+        <terminal name="" x="199" y="6" orientation="s" uuid="{a3b7ac95-7794-43cb-b447-4c306fdda3f6}" type="Generic"/>
+        <terminal name="" x="129" y="5" orientation="s" uuid="{a7ad5ac2-7a55-4ed8-9471-c042eb76fc98}" type="Generic"/>
+        <terminal name="" x="219" y="-85" orientation="n" uuid="{817b3182-45cc-48d2-86a2-2a285d760546}" type="Generic"/>
+        <terminal name="" x="30" y="-85" orientation="n" uuid="{83bb1c8d-e143-4554-b095-1b65f6a02c68}" type="Generic"/>
+        <terminal name="" x="99" y="-85" orientation="n" uuid="{8675c63e-e03b-41ee-948c-7531f54e2a52}" type="Generic"/>
+        <terminal name="" x="79" y="-85" orientation="n" uuid="{474487c6-a4fb-4c9f-a053-c07805e08db7}" type="Generic"/>
+        <terminal name="" x="129" y="-85" orientation="n" uuid="{fd9a75eb-0dad-4e7c-9236-a9dc0178a231}" type="Generic"/>
+        <terminal name="" x="179" y="-85" orientation="n" uuid="{a9774227-243f-465f-94b8-309b65b01b55}" type="Generic"/>
+        <terminal name="" x="150" y="-85" orientation="n" uuid="{d3f66e62-679f-4078-a822-32c95fd85bf5}" type="Generic"/>
+        <terminal name="" x="59" y="-85" orientation="n" uuid="{96252fe2-e0d7-4657-9f96-0e631d6de6d4}" type="Generic"/>
+        <terminal name="" x="10" y="-85" orientation="n" uuid="{894c1c89-3915-46ca-a787-1fd1a4d04b10}" type="Generic"/>
+        <terminal name="" x="199" y="-84" orientation="n" uuid="{d00f87c0-c867-4084-9165-d0fd02df2d63}" type="Generic"/>
+    </description>
+</definition>

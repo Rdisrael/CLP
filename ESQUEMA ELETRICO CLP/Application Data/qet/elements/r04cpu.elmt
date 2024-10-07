@@ -1,0 +1,15 @@
+<definition hotspot_x="5" link_type="simple" type="element" version="0.90" width="80" hotspot_y="139" height="150">
+    <uuid uuid="{7442b540-1baa-4b40-bba0-2fbf0f651f36}"/>
+    <names>
+        <name lang="pt">R04CPU</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" x="0" antialias="false" ry="0" width="70" y="-135" height="135" rx="0"/>
+        <text text="R04CPU" font="Sans Serif,8,-1,5,50,0,0,0,0,0" color="#000000" x="15" y="-92.5" rotation="0"/>
+        <text text="CPU Module" font="Sans Serif,8,-1,5,50,0,0,0,0,0" color="#000000" x="5" y="-117.5" rotation="0"/>
+        <text text="ETHERNET" font="Sans Serif,7,-1,5,50,0,0,0,0,0" color="#000000" x="15" y="-7.5" rotation="0"/>
+        <terminal x="35" type="Generic" name="" y="5" orientation="s" uuid="{313ddb7d-67a3-4ae3-87aa-c967d1d6eb42}"/>
+    </description>
+</definition>

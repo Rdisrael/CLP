@@ -1,0 +1,44 @@
+18:05:38.937 Info: Start-up 
+18:05:38.969 Debug: "File C:/Users/israe/Application Data/qet/20240924.log is deleted!" (../sources/main.cpp:150, void delete_old_log_files(int))
+18:05:39.330 Info: Elements collection reload 
+18:05:41.916 Info: debugging enabled: false 
+18:05:41.916 Info: Qt library version: 5.15.7 
+18:05:41.917 Info: Qt library location default prefix: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5" 
+18:05:41.918 Info: Qt library location documentation: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/doc" 
+18:05:41.919 Info: Qt library location headers: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/include" 
+18:05:41.920 Info: Qt library location libraries: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/lib" 
+18:05:41.921 Info: Qt library location executables: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/bin" 
+18:05:41.922 Info: Qt library location Qt binaries: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/bin" 
+18:05:41.922 Info: Qt library location Qt plugins: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/plugins" 
+18:05:41.923 Info: Qt library location installed QML extensions: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/imports" 
+18:05:41.924 Info: Qt library location installed QML extensions: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/qml" 
+18:05:41.925 Info: Qt library location dependent Qt data: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5" 
+18:05:41.925 Info: Qt library location independent Qt data: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5" 
+18:05:41.926 Info: Qt library location translation: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/translations" 
+18:05:41.927 Info: Qt library location examples: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/examples" 
+18:05:41.928 Info: Qt library location Qt testcases: "/home/laurent/digikam3333/project/bundles/mxe/build.win64/usr/x86_64-w64-mingw32.static/qt5/tests" 
+18:05:41.928 Info: "QElectroTech V 0.90+c7891bc4cb0a58100c957a06d79751d3" 
+18:05:41.928 Info: "Compilation : GCC 11.3.0" 
+18:05:41.929 Info: "Built with Qt 5.15.7 - x86_64 - Date : Jan  6 2023 : 12:55:49" 
+18:05:41.929 Info: "Run with Qt 5.15.7 using 4 thread(s)" 
+18:05:41.930 Info: "CPU : NAME                                      \r\r\nINTEL(R) CORE(TM) I3-6100U CPU @ 2.30GHZ  \r\r\n\r\r\n" 
+18:05:41.931 Info: "RAM Total : 4 GB" 
+18:05:41.932 Info: "RAM Available : 0 GB" 
+18:05:41.932 Info: "GPU : VideoProcessor               \r\r\nIntel(R) HD Graphics Family  \r\r\n\r\r\n" 
+18:05:41.933 Info: "GPU RAM : RAM Total : AdapterRAM  \r\r\n1073741824  \r\r\n\r\r\n B" 
+18:05:41.934 Info: "OS : winnt  - x86_64 - Version : Windows 10 Version 2009 - Kernel : 10.0.19045" 
+18:05:41.934 Info: *** Qt screens *** 
+18:05:41.935 Info: "( 1 : 1366 x 768 )" 
+18:05:41.943 Info: DISK : C:/   
+18:05:41.944 Info: FileSystemType: "NTFS" 
+18:05:41.944 Info: SizeTotal: 998 GB 
+18:05:41.945 Info: AvailableSize: 648 GB 
+18:05:41.946 Info: DISK : D:/   
+18:05:41.947 Info: FileSystemType: "" 
+18:05:41.947 Info: SizeTotal: 0 GB 
+18:05:41.948 Info: AvailableSize: 0 GB 
+18:05:41.950 Info: DISK USED: C:/   
+18:05:41.951 Info: FileSystemType: "NTFS" 
+18:05:41.952 Info: SizeTotal: 998 GB 
+18:05:41.953 Info: AvailableSize: 648 GB 
+18:08:44.829 Info: Elements collection finished to be loaded in 185.498 seconds 

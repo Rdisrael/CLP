@@ -1,0 +1,51 @@
+<definition height="160" version="0.90" type="element" link_type="simple" hotspot_x="10" hotspot_y="153" width="130">
+    <uuid uuid="{eb1ce07d-340c-4cb3-9a9f-0c6d197ad553}"/>
+    <names>
+        <name lang="pt">analog input</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect antialias="false" height="145" x="0" y="-145" ry="0" width="110" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text color="#000000" x="30" y="-134" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" text="R60DA4"/>
+        <text color="#000000" x="40" y="-20" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="INPUT "/>
+        <text color="#000000" x="1" y="-105" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="SLD"/>
+        <text color="#000000" x="1" y="-92" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="CH2 V-/I-"/>
+        <text color="#000000" x="1" y="-75" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="SLD"/>
+        <text color="#000000" x="1" y="-60" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="CH3 V-/I-"/>
+        <text color="#000000" x="1" y="-45" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="SLD"/>
+        <text color="#000000" x="1" y="-30" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="CH4 V-/I-"/>
+        <text color="#000000" x="1" y="-15" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="SLD"/>
+        <text color="#000000" x="73" y="-124" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="CH1V+"/>
+        <text color="#000000" x="92" y="-4" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="AG"/>
+        <text color="#000000" x="74" y="-18" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="CH4I+"/>
+        <text color="#000000" x="74" y="-34" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="CH4V+"/>
+        <text color="#000000" x="74" y="-49" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="CH3I+"/>
+        <text color="#000000" x="74" y="-64" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="CH3V+"/>
+        <text color="#000000" x="1" y="-2" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="FG"/>
+        <text color="#000000" x="74" y="-79" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="CH2I+"/>
+        <text color="#000000" x="73" y="-109" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="CH1I+"/>
+        <text color="#000000" x="73" y="-94" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="CH2V+"/>
+        <text color="#000000" x="1" y="-120" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="CH1V-/I-"/>
+        <text color="#000000" x="40" y="-9" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="ANALOG"/>
+        <text color="#000000" x="40" y="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0" rotation="0" text="MODULE"/>
+        <terminal name="" orientation="e" type="Generic" x="114" y="-97" uuid="{9902edcf-9b0a-49d2-a4ca-40c990a7f0dd}"/>
+        <terminal name="" orientation="w" type="Generic" x="-5" y="-5" uuid="{98f8991a-cc62-4f9b-95c8-d6d55a211d2b}"/>
+        <terminal name="" orientation="e" type="Generic" x="114" y="-22" uuid="{da6ef4a5-0a4d-4669-a0f4-c695d78b91aa}"/>
+        <terminal name="" orientation="e" type="Generic" x="114" y="-37" uuid="{d59a522a-8e92-49f3-83f3-436b9833a1fb}"/>
+        <terminal name="" orientation="e" type="Generic" x="114" y="-52" uuid="{234dfac4-a20e-48b9-8d7e-15f11e65a39b}"/>
+        <terminal name="" orientation="w" type="Generic" x="-5" y="-65" uuid="{2aa0021e-c90b-40b9-aeab-c39543338537}"/>
+        <terminal name="" orientation="e" type="Generic" x="114" y="-112" uuid="{bd6af684-abc2-43b0-bad2-79204b5a6723}"/>
+        <terminal name="" orientation="e" type="Generic" x="114" y="-67" uuid="{6ac5d776-27df-4486-975c-5f5aa12f22db}"/>
+        <terminal name="" orientation="w" type="Generic" x="-5" y="-50" uuid="{117ae520-d407-4963-9713-a888d2dbd0ba}"/>
+        <terminal name="" orientation="w" type="Generic" x="-5" y="-35" uuid="{f34fcf72-86c7-44ee-8414-565a225fb613}"/>
+        <terminal name="" orientation="e" type="Generic" x="114" y="-127" uuid="{ca8a5cb4-eaf2-4afe-ac3b-c12fe4a7fb09}"/>
+        <terminal name="" orientation="w" type="Generic" x="-5" y="-20" uuid="{4b9fc2e5-6961-468a-b2da-8c9e11768ccc}"/>
+        <terminal name="" orientation="w" type="Generic" x="-5" y="-110" uuid="{1be2000f-82e3-47af-85d8-929a397ebece}"/>
+        <terminal name="" orientation="w" type="Generic" x="-5" y="-95" uuid="{25b4e307-2d7f-40cc-9d7b-8260076f637a}"/>
+        <terminal name="" orientation="e" type="Generic" x="114" y="-82" uuid="{e792639f-9e43-4b63-bb91-cad850c4f4f8}"/>
+        <terminal name="" orientation="w" type="Generic" x="-5" y="-125" uuid="{125bde39-4d94-4ea8-bc6f-ff994f626388}"/>
+        <terminal name="" orientation="e" type="Generic" x="114" y="-7" uuid="{a2e385c3-e762-41ec-833c-5395adf20cfa}"/>
+        <terminal name="" orientation="w" type="Generic" x="-5" y="-80" uuid="{3ebb1a67-d176-4ae1-84c5-605e12645a5b}"/>
+    </description>
+</definition>

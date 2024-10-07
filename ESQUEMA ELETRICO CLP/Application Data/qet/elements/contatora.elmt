@@ -1,0 +1,15 @@
+<definition height="40" hotspot_x="7" link_type="simple" version="0.90" type="element" hotspot_y="33" width="50">
+    <uuid uuid="{558b58bc-0dc1-4077-81a2-db63c317dbfa}"/>
+    <names>
+        <name lang="pt">contatora</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect y="-20" rx="0" height="20" style="line-style:normal;line-weight:normal;filling:none;color:black" x="0" antialias="false" width="35" ry="0"/>
+        <text text="A2" y="-10" x="0" rotation="0" color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0"/>
+        <text text="A1" y="-10" x="25" rotation="0" color="#000000" font="Sans Serif,7,-1,5,50,0,0,0,0,0"/>
+        <terminal uuid="{6ff52c4e-634d-447c-b4ca-ed79df4f5e06}" y="-25" orientation="n" x="5" type="Generic" name=""/>
+        <terminal uuid="{3afe4511-6d5a-45d2-9782-ddd22990d9ed}" y="-25" orientation="n" x="30" type="Generic" name=""/>
+    </description>
+</definition>

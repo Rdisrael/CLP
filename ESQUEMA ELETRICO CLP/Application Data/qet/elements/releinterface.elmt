@@ -1,0 +1,23 @@
+<definition link_type="simple" width="90" version="0.90" height="140" hotspot_x="9" hotspot_y="137" type="element">
+    <uuid uuid="{7b8fb1e0-19a3-4865-9e1d-af73ae392604}"/>
+    <names>
+        <name lang="pt">Rele de interface </name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <text y="-20" text="14" rotation="0" x="2" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <text y="-46" text="12" rotation="0" x="3" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <text y="-100" text="interface" rotation="0" x="10" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <rect y="-135" width="70" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" x="0" height="135" ry="0" antialias="false"/>
+        <text y="-70" text="11" rotation="0" x="2" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <text y="-20" text="A2" rotation="0" x="55" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <text y="-115" text="Relé de" rotation="0" x="15" color="#000000" font="Sans Serif,9,-1,5,50,0,0,0,0,0"/>
+        <text y="-70" text="A1" rotation="0" x="55" color="#000000" font="Sans Serif,8,-1,5,50,0,0,0,0,0"/>
+        <terminal y="-50" name="" x="-4" orientation="w" type="Generic" uuid="{22afaf8d-ebc4-47ab-a328-d88cd6b2ad3b}"/>
+        <terminal y="-25" name="" x="-5" orientation="w" type="Generic" uuid="{292fbe5e-fd6a-4820-88f5-6c67fc051f7f}"/>
+        <terminal y="-75" name="" x="75" orientation="e" type="Generic" uuid="{685450de-d191-4246-9ede-a730717dec45}"/>
+        <terminal y="-75" name="" x="-5" orientation="w" type="Generic" uuid="{32d76271-3bd0-49b1-ad19-1eb514ba40c3}"/>
+        <terminal y="-25" name="" x="75" orientation="e" type="Generic" uuid="{8c95851e-ee4a-458d-a540-5ee676deee4f}"/>
+    </description>
+</definition>
