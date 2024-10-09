@@ -1,25 +1,27 @@
-<definition height="80" version="0.90" type="element" link_type="simple" hotspot_x="5" hotspot_y="73" width="170">
-    <uuid uuid="{6a032dae-47e3-478f-9c0b-02042106d501}"/>
+<definition height="80" version="0.90" link_type="simple" hotspot_y="73" type="element" width="210" hotspot_x="5">
+    <uuid uuid="{0e4ad77b-8b6c-49af-885c-67aa4549a600}"/>
     <names>
         <name lang="pt">GOT 2000</name>
     </names>
     <elementInformations/>
     <informations></informations>
     <description>
-        <rect antialias="false" height="60" x="0" y="-60" ry="0" width="160" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <rect antialias="false" height="30" x="20" y="-45" ry="0" width="120" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <text color="#000000" x="55" y="-4" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="GOT 2000"/>
-        <text color="#000000" x="2" y="-52" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" text="ETHERNET"/>
-        <text color="#000000" x="33" y="-52" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" text="START"/>
-        <text color="#000000" x="64" y="-52" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" text="STOP"/>
-        <text color="#000000" x="79" y="-52" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" text="EMERGENCIA"/>
-        <text color="#000000" x="115" y="-52" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" text="VCC"/>
-        <text color="#000000" x="145" y="-51" font="Sans Serif,4,-1,5,50,0,0,0,0,0" rotation="0" text="GND"/>
-        <terminal name="" orientation="n" type="Generic" x="10" y="-65" uuid="{7bf0402e-ce88-4214-b589-37e7715f5759}"/>
-        <terminal name="" orientation="n" type="Generic" x="40" y="-65" uuid="{7cc819f4-adbc-447d-8e51-4446cd3e199b}"/>
-        <terminal name="" orientation="n" type="Generic" x="90" y="-65" uuid="{359a0900-6666-4190-8a83-37b88c2613da}"/>
-        <terminal name="" orientation="n" type="Generic" x="120" y="-65" uuid="{0f871512-029f-4578-af01-5921e559ad34}"/>
-        <terminal name="" orientation="n" type="Generic" x="150" y="-65" uuid="{a1696b0a-8de9-4adc-bada-4d8d34d5afdc}"/>
-        <terminal name="" orientation="n" type="Generic" x="70" y="-65" uuid="{bbaa7445-b6cc-4e86-9e51-b485c261abb0}"/>
+        <rect height="60" y="-60" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="0" width="200" antialias="false" rx="0"/>
+        <text y="-50" text="BT" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" x="126" color="#000000"/>
+        <rect height="30" y="-45" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="30" width="140" antialias="false" rx="0"/>
+        <text y="-5" text="GOT 2000" rotation="0" font="Sans Serif,8,-1,5,50,0,0,0,0,0" x="75" color="#000000"/>
+        <text y="-50" text="ETHERNET" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" x="5" color="#000000"/>
+        <text y="-50" text="START" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" x="35" color="#000000"/>
+        <text y="-50" text="STOP" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" x="65" color="#000000"/>
+        <text y="-50" text="EMERGENCIA" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" x="85" color="#000000"/>
+        <text y="-50" text="VCC" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" x="155" color="#000000"/>
+        <text y="-50" text="GND" rotation="0" font="Sans Serif,4,-1,5,50,0,0,0,0,0" x="185" color="#000000"/>
+        <terminal y="-65" uuid="{7bf0402e-ce88-4214-b589-37e7715f5759}" type="Generic" name="" x="10" orientation="n"/>
+        <terminal y="-65" uuid="{359a0900-6666-4190-8a83-37b88c2613da}" type="Generic" name="" x="100" orientation="n"/>
+        <terminal y="-65" uuid="{0f871512-029f-4578-af01-5921e559ad34}" type="Generic" name="" x="130" orientation="n"/>
+        <terminal y="-65" uuid="{7cc819f4-adbc-447d-8e51-4446cd3e199b}" type="Generic" name="" x="40" orientation="n"/>
+        <terminal y="-65" uuid="{a1696b0a-8de9-4adc-bada-4d8d34d5afdc}" type="Generic" name="" x="160" orientation="n"/>
+        <terminal y="-65" uuid="{bbaa7445-b6cc-4e86-9e51-b485c261abb0}" type="Generic" name="" x="70" orientation="n"/>
+        <terminal y="-65" uuid="{7968267d-f407-4705-9546-198935198bbe}" type="Generic" name="" x="190" orientation="n"/>
     </description>
 </definition>

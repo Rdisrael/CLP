@@ -1,33 +1,35 @@
-<definition height="170" version="0.90" type="element" link_type="simple" hotspot_x="9" hotspot_y="167" width="90">
-    <uuid uuid="{18ca8581-3a02-4363-8adc-faf7c7578466}"/>
+<definition height="180" version="0.90" link_type="simple" hotspot_y="168" type="element" width="110" hotspot_x="9">
+    <uuid uuid="{a35cabf9-2c78-478b-8828-5e326672761a}"/>
     <names>
         <name lang="pt">servo amplificador</name>
     </names>
     <elementInformations/>
     <informations></informations>
     <description>
-        <rect antialias="false" height="160" x="0" y="-160" ry="0" width="70" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <text color="#000000" x="1" y="-136" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" text="amplificador"/>
-        <text color="#000000" x="0" y="-60" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="V"/>
-        <text color="#000000" x="0" y="-35" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="W"/>
-        <text color="#000000" x="1" y="-11.95" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="0" text="GND"/>
-        <text color="#000000" x="57" y="-87.95" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="L1"/>
-        <text color="#000000" x="57" y="-61.95" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="L2"/>
-        <text color="#000000" x="57" y="-36" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="L3"/>
-        <text color="#000000" x="25" y="-12" font="Sans Serif,7,-1,5,50,0,0,0,0,0" rotation="720" text="ETHERNET"/>
-        <text color="#000000" x="1" y="-86.95" font="Sans Serif,8,-1,5,50,0,0,0,0,0" rotation="0" text="U"/>
-        <text color="#000000" x="15" y="-150" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" text="Servo "/>
-        <text color="#000000" x="1" y="-115" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" text="C"/>
-        <text color="#000000" x="53" y="-116" font="Sans Serif,9,-1,5,50,0,0,0,0,0" rotation="0" text="P+"/>
-        <terminal name="" orientation="w" type="Generic" x="-5" y="-120" uuid="{e9c2382d-8fbc-4b55-bf73-0c12134809af}"/>
-        <terminal name="" orientation="e" type="Generic" x="75" y="-120" uuid="{973d5513-ee5a-4b12-913b-685a2b616837}"/>
-        <terminal name="" orientation="w" type="Generic" x="-5" y="-91" uuid="{2172aa3e-ca0a-4441-84fb-1b90081f0ff9}"/>
-        <terminal name="" orientation="e" type="Generic" x="75" y="-91" uuid="{271a3a94-3d27-4f73-9c62-002079c71e30}"/>
-        <terminal name="" orientation="e" type="Generic" x="75" y="-65" uuid="{4dcd0e58-a819-43b7-a885-7e969472fb3f}"/>
-        <terminal name="" orientation="e" type="Generic" x="75" y="-40" uuid="{4b2a2502-9b5b-4833-b131-a7cc6a5e7628}"/>
-        <terminal name="" orientation="w" type="Generic" x="-5" y="-40" uuid="{94b0b3b2-863a-47ad-9ea6-ef5b30b422c7}"/>
-        <terminal name="" orientation="w" type="Generic" x="-5" y="-65" uuid="{f068fdcb-a1be-4385-bad4-534b76e82171}"/>
-        <terminal name="" orientation="w" type="Generic" x="-5" y="-15" uuid="{5be193ee-c2bc-4dc5-97e9-0cdfb20ae2fb}"/>
-        <terminal name="" orientation="e" type="Generic" x="75" y="-15" uuid="{8b124cf0-a158-47d9-bfa6-2e26d65b9f5d}"/>
+        <rect height="160" y="-160" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" x="0" width="90" antialias="false" rx="0"/>
+        <text y="-130" text="amplificador" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="10" color="#000000"/>
+        <text y="-70" text="V" rotation="0" font="Sans Serif,8,-1,5,50,0,0,0,0,0" x="1" color="#000000"/>
+        <text y="-50" text="W" rotation="0" font="Sans Serif,8,-1,5,50,0,0,0,0,0" x="1" color="#000000"/>
+        <text y="-30" text="GND" rotation="0" font="Sans Serif,7,-1,5,50,0,0,0,0,0" x="1" color="#000000"/>
+        <text y="-92" text="L1" rotation="0" font="Sans Serif,8,-1,5,50,0,0,0,0,0" x="76" color="#000000"/>
+        <text y="-72" text="L2" rotation="0" font="Sans Serif,8,-1,5,50,0,0,0,0,0" x="76" color="#000000"/>
+        <text y="-51" text="L3" rotation="0" font="Sans Serif,8,-1,5,50,0,0,0,0,0" x="76" color="#000000"/>
+        <text y="-30" text="ETHERNET" rotation="0" font="Sans Serif,6,-1,5,50,0,0,0,0,0" x="52" color="#000000"/>
+        <text y="-90" text="U" rotation="0" font="Sans Serif,8,-1,5,50,0,0,0,0,0" x="1" color="#000000"/>
+        <text y="-150" text="Servo " rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="30" color="#000000"/>
+        <text y="-115" text="C" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="1" color="#000000"/>
+        <text y="-116" text="P+" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="72" color="#000000"/>
+        <text y="-5" text="CN2" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="30" color="#000000"/>
+        <terminal y="-34" uuid="{5be193ee-c2bc-4dc5-97e9-0cdfb20ae2fb}" type="Generic" name="" x="-5" orientation="w"/>
+        <terminal y="-75" uuid="{4dcd0e58-a819-43b7-a885-7e969472fb3f}" type="Generic" name="" x="95" orientation="e"/>
+        <terminal y="-55" uuid="{4b2a2502-9b5b-4833-b131-a7cc6a5e7628}" type="Generic" name="" x="95" orientation="e"/>
+        <terminal y="-120.05" uuid="{973d5513-ee5a-4b12-913b-685a2b616837}" type="Generic" name="" x="94" orientation="e"/>
+        <terminal y="-75" uuid="{f068fdcb-a1be-4385-bad4-534b76e82171}" type="Generic" name="" x="-5" orientation="w"/>
+        <terminal y="-95" uuid="{2172aa3e-ca0a-4441-84fb-1b90081f0ff9}" type="Generic" name="" x="-5" orientation="w"/>
+        <terminal y="-35" uuid="{8b124cf0-a158-47d9-bfa6-2e26d65b9f5d}" type="Generic" name="" x="95" orientation="e"/>
+        <terminal y="-95" uuid="{271a3a94-3d27-4f73-9c62-002079c71e30}" type="Generic" name="" x="95" orientation="e"/>
+        <terminal y="-55" uuid="{94b0b3b2-863a-47ad-9ea6-ef5b30b422c7}" type="Generic" name="" x="-5" orientation="w"/>
+        <terminal y="-120" uuid="{e9c2382d-8fbc-4b55-bf73-0c12134809af}" type="Generic" name="" x="-5" orientation="w"/>
+        <terminal y="4" uuid="{e4976707-2e0f-4522-8c06-4deef9161f2f}" type="Generic" name="" x="40" orientation="s"/>
     </description>
 </definition>
